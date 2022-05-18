@@ -1,4 +1,4 @@
-package com.example.pizzaapplicationegzamin.remote.rest.dto.response;
+package com.adamwasilewski.pizzaapplicationtest.remote.rest.dto.response;
 
 public class TokenDto {
     private String token;

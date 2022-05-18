@@ -1,6 +1,6 @@
-package com.example.pizzaapplicationegzamin.remote.rest.dto.response;
+package com.adamwasilewski.pizzaapplicationtest.remote.rest.dto.response;
 
-import com.example.pizzaapplicationegzamin.domain.model.OrderStatusType;
+import com.adamwasilewski.pizzaapplicationtest.domain.model.OrderStatusType;
 import com.fasterxml.jackson.annotation.JsonFormat;
 
 import java.util.Date;

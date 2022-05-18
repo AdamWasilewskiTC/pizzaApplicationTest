@@ -1,4 +1,4 @@
-package com.example.pizzaapplicationegzamin;
+package com.adamwasilewski.pizzaapplicationtest;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

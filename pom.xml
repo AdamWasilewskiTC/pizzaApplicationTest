@@ -8,11 +8,11 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.example</groupId>
-    <artifactId>pizzaApplicationEgzamin</artifactId>
+    <groupId>com.adamwasilewski</groupId>
+    <artifactId>pizzaApplicationTest</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>pizzaApplicationEgzamin</name>
-    <description>pizzaApplicationEgzamin</description>
+    <name>pizzaApplicationTest</name>
+    <description>pizzaApplicationTestn</description>
     <properties>
         <java.version>11</java.version>
         <repackage.classifier/>

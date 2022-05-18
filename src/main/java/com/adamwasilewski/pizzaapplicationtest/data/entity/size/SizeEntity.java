@@ -1,6 +1,6 @@
-package com.example.pizzaapplicationegzamin.data.entity.size;
+package com.adamwasilewski.pizzaapplicationtest.data.entity.size;
 
-import com.example.pizzaapplicationegzamin.data.entity.pizza.PizzaEntity;
+import com.adamwasilewski.pizzaapplicationtest.data.entity.pizza.PizzaEntity;
 
 import javax.persistence.*;
 import java.math.BigDecimal;

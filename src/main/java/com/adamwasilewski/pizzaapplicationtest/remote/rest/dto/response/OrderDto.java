@@ -1,8 +1,8 @@
-package com.example.pizzaapplicationegzamin.remote.rest.dto.response;
+package com.adamwasilewski.pizzaapplicationtest.remote.rest.dto.response;
 
-import com.example.pizzaapplicationegzamin.domain.model.OrderStatusType;
-import com.example.pizzaapplicationegzamin.remote.rest.dto.request.PersonOrderDto;
-import com.example.pizzaapplicationegzamin.remote.rest.dto.request.PizzaOrderDto;
+import com.adamwasilewski.pizzaapplicationtest.domain.model.OrderStatusType;
+import com.adamwasilewski.pizzaapplicationtest.remote.rest.dto.request.PersonOrderDto;
+import com.adamwasilewski.pizzaapplicationtest.remote.rest.dto.request.PizzaOrderDto;
 
 import java.util.List;
 

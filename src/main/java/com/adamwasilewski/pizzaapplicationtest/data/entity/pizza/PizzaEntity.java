@@ -1,6 +1,6 @@
-package com.example.pizzaapplicationegzamin.data.entity.pizza;
+package com.adamwasilewski.pizzaapplicationtest.data.entity.pizza;
 
-import com.example.pizzaapplicationegzamin.data.entity.size.SizeEntity;
+import com.adamwasilewski.pizzaapplicationtest.data.entity.size.SizeEntity;
 
 import javax.persistence.*;
 import java.util.Set;
